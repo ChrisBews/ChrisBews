@@ -1,4 +1,4 @@
-<img src="images/header.gif?v=2" alt="The Snowbeat logo" width="100%">
+<img src="images/header.gif?v=3" alt="The Snowbeat logo" width="100%">
 
 ## About me
 
