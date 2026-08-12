@@ -1,4 +1,4 @@
-<img src="images/header.gif?v=3" alt="The Snowbeat logo" width="100%">
+<img src="images/header-banner.png" alt="The Snowbeat logo" width="100%">
 
 ## About me
 
@@ -7,7 +7,7 @@ I'm Christopher Bews, AKA Snowbeat online. I'm a jack of all trades from Scotlan
 I like to make nice UIs and animations.
 
 <p>
-  <a href="https://snowbeat.uk" target="_blank"><img src="images/button-website.png?v=2" alt="Website" width="223"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chrisbews" target="_blank"><img 
+  <a href="https://snowbeat.uk" target="_blank"><img src="images/button-website.png" alt="Website" width="223"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chrisbews" target="_blank"><img 
 src="images/button-linkedin.png" alt="LinkedIn" width="257"></a>
 </p>
 
