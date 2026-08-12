@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ChrisBews&color=E4F400&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ChrisBews&color=DEEE00&style=flat-square)
 
 <!--
 **ChrisBews/ChrisBews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
