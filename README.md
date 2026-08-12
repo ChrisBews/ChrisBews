@@ -1,4 +1,4 @@
-<img src="images/header.png" alt="The Snowbeat logo" width="100%">
+<img src="images/header.gif" alt="The Snowbeat logo" width="100%">
 
 ## Hi there 👋
 
