@@ -2,7 +2,9 @@
 
 ## About me
 
-I'm Christopher Bews, AKA Snowbeat online. I'm a jack of all trades from Scotland, living in London. I like to make nice UIs and animations.
+I'm Christopher Bews, AKA Snowbeat online. I'm a jack of all trades from Scotland, living in London.
+
+I like to make nice UIs and animations.
 
 <p>
   <a href="https://www.linkedin.com/in/chrisbews" target="_blank"><img 
