@@ -1,3 +1,5 @@
+<img src="images/header.png" alt="The Snowbeat logo" width="100%">
+
 ## Hi there 👋
 
 <!--
