@@ -6,7 +6,7 @@ I'm Christopher Bews, AKA Snowbeat online. I'm a jack of all trades from Scotlan
 
 <p>
   <a href="https://www.linkedin.com/in/chrisbews" target="_blank"><img 
-src="images/button-linkedin.png" alt="LinkedIn" width="257"></a>
+src="images/button-linkedin.png" alt="LinkedIn" width="257" style="margin-right: 12px"></a>
   <a href="https://snowbeat.uk" target="_blank"><img src="images/button-website.png" alt="Website" width="223"></a>
 </p>
 
